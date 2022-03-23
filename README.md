@@ -1,2 +1,2 @@
-# procedural_generation
+# GenPro
 A package testing different procedural generation implementations
