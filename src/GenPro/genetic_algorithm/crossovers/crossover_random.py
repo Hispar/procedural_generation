@@ -1,10 +1,5 @@
-# -*- coding: utf-8 -*-
-# Python imports
 from random import choice
 
-# 3rd Party imports
-
-# App imports
 from ..crossover import Crossover
 from ..individual import Individual
 

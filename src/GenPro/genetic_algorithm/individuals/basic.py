@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# Python imports
-from typing import List
-
-# 3rd Party imports
-
-# App imports
 from ..individual import Individual
 
 

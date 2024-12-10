@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-# Python imports
 from typing import List
-
-
-# 3rd Party imports
-
-# App imports
 
 
 class Individual:

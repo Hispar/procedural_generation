@@ -1,12 +1,7 @@
-# -*- coding: utf-8 -*-
-# Python imports
 from dataclasses import dataclass
 from random import randint
 from typing import Tuple, List, Optional
 
-# 3rd Party imports
-
-# App imports
 from .crossover import Crossover
 from .individual import Individual
 
