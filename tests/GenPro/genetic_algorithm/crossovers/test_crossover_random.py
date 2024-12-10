@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# Python imports
-
-# 3rd Party imports
-
-# App imports
 from src.GenPro.genetic_algorithm.crossovers.crossover_random import CrossoverRandom
 from src.GenPro.genetic_algorithm.individual import Individual
 from src.GenPro.genetic_algorithm.individuals.basic import BasicIndividual
